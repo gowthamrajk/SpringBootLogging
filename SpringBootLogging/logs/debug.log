@@ -1,0 +1,106 @@
+2021-05-30 20:22:54 [restartedMain] INFO  c.a.SpringBootLoggingApplication -
+				Starting SpringBootLoggingApplication using Java 15.0.2 on DESKTOP-8CRM7KD with PID 21060 (C:\Users\Windows\Spring WorkSpace\SpringBootLogging\target\classes started by Windows in C:\Users\Windows\Spring WorkSpace\SpringBootLogging)
+2021-05-30 20:22:54 [restartedMain] DEBUG c.a.SpringBootLoggingApplication -
+				Running with Spring Boot v2.5.0, Spring v5.3.7
+2021-05-30 20:22:54 [restartedMain] INFO  c.a.SpringBootLoggingApplication -
+				No active profile set, falling back to default profiles: default
+2021-05-30 20:22:59 [restartedMain] INFO  c.a.SpringBootLoggingApplication -
+				Started SpringBootLoggingApplication in 7.232 seconds (JVM running for 11.379)
+2021-05-30 20:23:59 [http-nio-8080-exec-1] DEBUG c.a.SpringBootLoggingApplication -
+				Request gowtham
+2021-05-30 20:23:59 [http-nio-8080-exec-1] DEBUG c.a.SpringBootLoggingApplication -
+				Response Hi gowtham Welcome to Java Techie
+2021-05-30 20:24:10 [http-nio-8080-exec-3] DEBUG c.a.SpringBootLoggingApplication -
+				Request gowtham
+2021-05-30 20:24:10 [http-nio-8080-exec-3] DEBUG c.a.SpringBootLoggingApplication -
+				Response Hi gowtham Welcome to Java Techie
+2021-05-30 20:26:57 [restartedMain] INFO  c.a.SpringBootLoggingApplication -
+				Starting SpringBootLoggingApplication using Java 15.0.2 on DESKTOP-8CRM7KD with PID 7900 (C:\Users\Windows\Spring WorkSpace\SpringBootLogging\target\classes started by Windows in C:\Users\Windows\Spring WorkSpace\SpringBootLogging)
+2021-05-30 20:26:57 [restartedMain] DEBUG c.a.SpringBootLoggingApplication -
+				Running with Spring Boot v2.5.0, Spring v5.3.7
+2021-05-30 20:26:57 [restartedMain] INFO  c.a.SpringBootLoggingApplication -
+				No active profile set, falling back to default profiles: default
+2021-05-30 20:27:03 [http-nio-8080-exec-6] DEBUG c.a.SpringBootLoggingApplication -
+				Request ram
+2021-05-30 20:27:03 [http-nio-8080-exec-6] DEBUG c.a.SpringBootLoggingApplication -
+				Response Hi ram Welcome to Java Techie
+2021-05-30 20:28:13 [restartedMain] INFO  c.a.SpringBootLoggingApplication -
+				Starting SpringBootLoggingApplication using Java 15.0.2 on DESKTOP-8CRM7KD with PID 21060 (C:\Users\Windows\Spring WorkSpace\SpringBootLogging\target\classes started by Windows in C:\Users\Windows\Spring WorkSpace\SpringBootLogging)
+2021-05-30 20:28:13 [restartedMain] DEBUG c.a.SpringBootLoggingApplication -
+				Running with Spring Boot v2.5.0, Spring v5.3.7
+2021-05-30 20:28:13 [restartedMain] INFO  c.a.SpringBootLoggingApplication -
+				No active profile set, falling back to default profiles: default
+2021-05-30 20:28:14 [restartedMain] INFO  c.a.SpringBootLoggingApplication -
+				Started SpringBootLoggingApplication in 1.758 seconds (JVM running for 326.403)
+2021-05-30 20:28:35 [restartedMain] INFO  c.a.SpringBootLoggingApplication -
+				Starting SpringBootLoggingApplication using Java 15.0.2 on DESKTOP-8CRM7KD with PID 21060 (C:\Users\Windows\Spring WorkSpace\SpringBootLogging\target\classes started by Windows in C:\Users\Windows\Spring WorkSpace\SpringBootLogging)
+2021-05-30 20:28:35 [restartedMain] DEBUG c.a.SpringBootLoggingApplication -
+				Running with Spring Boot v2.5.0, Spring v5.3.7
+2021-05-30 20:28:35 [restartedMain] INFO  c.a.SpringBootLoggingApplication -
+				No active profile set, falling back to default profiles: default
+2021-05-30 20:28:36 [restartedMain] INFO  c.a.SpringBootLoggingApplication -
+				Started SpringBootLoggingApplication in 1.559 seconds (JVM running for 348.502)
+2021-05-30 20:28:43 [http-nio-8080-exec-1] DEBUG c.a.SpringBootLoggingApplication -
+				Request gowtham
+2021-05-30 20:28:43 [http-nio-8080-exec-1] DEBUG c.a.SpringBootLoggingApplication -
+				Response Hi gowtham Welcome to Java Techie
+2021-05-30 20:30:23 [restartedMain] INFO  c.a.SpringBootLoggingApplication -
+				Starting SpringBootLoggingApplication using Java 15.0.2 on DESKTOP-8CRM7KD with PID 21060 (C:\Users\Windows\Spring WorkSpace\SpringBootLogging\target\classes started by Windows in C:\Users\Windows\Spring WorkSpace\SpringBootLogging)
+2021-05-30 20:30:23 [restartedMain] DEBUG c.a.SpringBootLoggingApplication -
+				Running with Spring Boot v2.5.0, Spring v5.3.7
+2021-05-30 20:30:23 [restartedMain] INFO  c.a.SpringBootLoggingApplication -
+				No active profile set, falling back to default profiles: default
+2021-05-30 20:30:24 [restartedMain] INFO  c.a.SpringBootLoggingApplication -
+				Started SpringBootLoggingApplication in 1.184 seconds (JVM running for 456.16)
+2021-05-30 20:30:35 [restartedMain] INFO  c.a.SpringBootLoggingApplication -
+				Starting SpringBootLoggingApplication using Java 15.0.2 on DESKTOP-8CRM7KD with PID 21060 (C:\Users\Windows\Spring WorkSpace\SpringBootLogging\target\classes started by Windows in C:\Users\Windows\Spring WorkSpace\SpringBootLogging)
+2021-05-30 20:30:35 [restartedMain] DEBUG c.a.SpringBootLoggingApplication -
+				Running with Spring Boot v2.5.0, Spring v5.3.7
+2021-05-30 20:30:35 [restartedMain] INFO  c.a.SpringBootLoggingApplication -
+				No active profile set, falling back to default profiles: default
+2021-05-30 20:30:36 [restartedMain] INFO  c.a.SpringBootLoggingApplication -
+				Started SpringBootLoggingApplication in 0.795 seconds (JVM running for 467.596)
+2021-05-30 20:30:45 [restartedMain] INFO  c.a.SpringBootLoggingApplication -
+				Starting SpringBootLoggingApplication using Java 15.0.2 on DESKTOP-8CRM7KD with PID 10384 (C:\Users\Windows\Spring WorkSpace\SpringBootLogging\target\classes started by Windows in C:\Users\Windows\Spring WorkSpace\SpringBootLogging)
+2021-05-30 20:30:45 [restartedMain] DEBUG c.a.SpringBootLoggingApplication -
+				Running with Spring Boot v2.5.0, Spring v5.3.7
+2021-05-30 20:30:45 [restartedMain] INFO  c.a.SpringBootLoggingApplication -
+				No active profile set, falling back to default profiles: default
+2021-05-30 20:30:53 [http-nio-8080-exec-1] DEBUG c.a.SpringBootLoggingApplication -
+				Request gowtham
+2021-05-30 20:30:53 [http-nio-8080-exec-1] DEBUG c.a.SpringBootLoggingApplication -
+				Response Hi gowtham Welcome to Java Techie
+2021-05-30 20:32:14 [restartedMain] INFO  c.a.SpringBootLoggingApplication -
+				Starting SpringBootLoggingApplication using Java 15.0.2 on DESKTOP-8CRM7KD with PID 21060 (C:\Users\Windows\Spring WorkSpace\SpringBootLogging\target\classes started by Windows in C:\Users\Windows\Spring WorkSpace\SpringBootLogging)
+2021-05-30 20:32:14 [restartedMain] DEBUG c.a.SpringBootLoggingApplication -
+				Running with Spring Boot v2.5.0, Spring v5.3.7
+2021-05-30 20:32:14 [restartedMain] INFO  c.a.SpringBootLoggingApplication -
+				No active profile set, falling back to default profiles: default
+2021-05-30 20:32:15 [restartedMain] INFO  c.a.SpringBootLoggingApplication -
+				Started SpringBootLoggingApplication in 0.878 seconds (JVM running for 566.713)
+2021-05-30 20:32:18 [http-nio-8080-exec-1] DEBUG c.a.SpringBootLoggingApplication -
+				Request gowtham
+2021-05-30 20:32:18 [http-nio-8080-exec-1] DEBUG c.a.SpringBootLoggingApplication -
+				Response Hi gowtham Welcome to Java Techie
+2021-05-30 20:32:20 [http-nio-8080-exec-2] DEBUG c.a.SpringBootLoggingApplication -
+				Request gowtham
+2021-05-30 20:32:20 [http-nio-8080-exec-2] DEBUG c.a.SpringBootLoggingApplication -
+				Response Hi gowtham Welcome to Java Techie
+2021-05-30 20:34:18 [restartedMain] INFO  c.a.SpringBootLoggingApplication -
+				Starting SpringBootLoggingApplication using Java 15.0.2 on DESKTOP-8CRM7KD with PID 21060 (C:\Users\Windows\Spring WorkSpace\SpringBootLogging\target\classes started by Windows in C:\Users\Windows\Spring WorkSpace\SpringBootLogging)
+2021-05-30 20:34:18 [restartedMain] DEBUG c.a.SpringBootLoggingApplication -
+				Running with Spring Boot v2.5.0, Spring v5.3.7
+2021-05-30 20:34:18 [restartedMain] INFO  c.a.SpringBootLoggingApplication -
+				No active profile set, falling back to default profiles: default
+2021-05-30 20:34:19 [restartedMain] INFO  c.a.SpringBootLoggingApplication -
+				Started SpringBootLoggingApplication in 0.908 seconds (JVM running for 691.201)
+2021-05-30 20:34:26 [restartedMain] INFO  c.a.SpringBootLoggingApplication -
+				Starting SpringBootLoggingApplication using Java 15.0.2 on DESKTOP-8CRM7KD with PID 8572 (C:\Users\Windows\Spring WorkSpace\SpringBootLogging\target\classes started by Windows in C:\Users\Windows\Spring WorkSpace\SpringBootLogging)
+2021-05-30 20:34:26 [restartedMain] DEBUG c.a.SpringBootLoggingApplication -
+				Running with Spring Boot v2.5.0, Spring v5.3.7
+2021-05-30 20:34:26 [restartedMain] INFO  c.a.SpringBootLoggingApplication -
+				No active profile set, falling back to default profiles: default
+2021-05-30 20:34:31 [http-nio-8080-exec-1] DEBUG c.a.SpringBootLoggingApplication -
+				Request gowtham
+2021-05-30 20:34:31 [http-nio-8080-exec-1] DEBUG c.a.SpringBootLoggingApplication -
+				Response Hi gowtham Welcome to Java Techie
