@@ -68,3 +68,26 @@ Define the Log pattern in **logback.xml** file as
     
 Complete logback.xml file with the rest of you logical code...
 
+**[refer in my application's Logbackxml file for more code]**
+
+## use of .yml file
+
+- Using yml file, you can define log levels of Spring Boot loggers, application loggers, Hibernate loggers, Thymeleaf loggers, and more. 
+- To set the logging level for any logger, add keys starting with logging.level. 
+- Logging level can be one of one of **TRACE** , **DEBUG** , **INFO** , **WARN** , **ERROR** , **FATAL** , **OFF**
+
+configure the **application.yml** file as
+
+    logging:
+      level:
+        org.springframework.web: ERROR
+        com.application: DEBUG
+      pattern:
+        console: '%d{yyyy-MM-dd HH:mm:ss} - %msg%n'
+        file: '%d{yyyy-MM-dd HH:mm:ss} [%thread] %-5level %logger{36} - %msg%n'
+      file: C:\Users\Windows\spring-boot-logging\api.log
+      
+The last line in .yml configuration file is to mention the path in our system where the logged file has to e stored.
+
+## Adding SLF4J logger in applicaion
+
