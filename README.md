@@ -17,3 +17,11 @@ This gives you information regarding the date and time of the log, Log level sho
 - The default log messages will print to the console window. 
 - By default, “INFO”, “ERROR” and “WARN” log messages will print in the log file.
 - add the debug mode to your application.properties file as **debug = true**
+
+## File Log
+
+- By default, all logs will print on the console window and not in the files. 
+- If you want to print the logs in a file, you need to set the property **logging.file** or **logging.path** in the **application.properties** file.
+- specify the log file path using the property as **logging.path = /var/tmp/**
+- specify the own log file name using the property as **logging.file = /var/tmp/mylog.log**
+**Note** − Logback does not support **“FATAL”** level log. It is mapped to the **“ERROR”** level log.
