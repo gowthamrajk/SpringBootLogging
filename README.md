@@ -50,3 +50,21 @@ configure the console appender in **Logback.xml** file as
        </root>
     </configuration>
 
+configure the file appender in **Logback.xml** file as
+
+    <?xml version = "1.0" encoding = "UTF-8"?>
+    <configuration>
+       <appender name = "FILE" class = "ch.qos.logback.core.FileAppender">
+          <File>...path</File>
+       </appender>   
+       <root level = "INFO">
+          <appender-ref ref = "FILE"/>
+       </root>
+    </configuration>
+    
+Define the Log pattern in **logback.xml** file as
+
+    <pattern>[%d{yyyy-MM-dd'T'HH:mm:ss.sss'Z'}] [%C] [%t] [%L] [%-5p] %m%n</pattern>
+    
+Complete logback.xml file with the rest of you logical code...
+
