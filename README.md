@@ -1,5 +1,7 @@
 # SpringBootLogging
 
+[![](https://img.shields.io/github/languages/count/gowthamrajk/springbootlogging)]  [![](https://img.shields.io/github/languages/top/gowthamrajk/springbootlogging)]
+
 - Spring Boot uses Apache Commons logging for all internal logging. 
 - Spring Boot’s default configurations provides a support for the use of Java Util Logging, Log4j2, and Logback. 
 - Using these, we can configure the console logging as well as file logging.
@@ -91,3 +93,24 @@ The last line in .yml configuration file is to mention the path in our system wh
 
 ## Adding SLF4J logger in applicaion
 
+    package com.application;
+
+    import org.slf4j.Logger;
+    import org.slf4j.LoggerFactory;
+    import org.springframework.boot.SpringApplication;
+    import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+    @SpringBootApplication
+    public class SpringBootLogging 
+    {
+        private static final Logger logger = LoggerFactory.getLogger(SpringBootLogging.class);
+   
+        public static void main(String[] args) 
+        {
+            logger.info("......type some message here......");
+            logger.warn("......type some message here......");
+            logger.error("......type some message here......");
+            SpringApplication.run(SpringBootLogging.class, args);
+        }
+    }
+    
