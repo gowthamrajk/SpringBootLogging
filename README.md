@@ -1,6 +1,6 @@
 # SpringBootLogging
 
-[![](https://img.shields.io/github/languages/count/gowthamrajk/springbootlogging)]  [![](https://img.shields.io/github/languages/top/gowthamrajk/springbootlogging)]
+[](https://img.shields.io/github/languages/count/gowthamrajk/springbootlogging)    [](https://img.shields.io/github/languages/top/gowthamrajk/springbootlogging)
 
 - Spring Boot uses Apache Commons logging for all internal logging. 
 - Spring Boot’s default configurations provides a support for the use of Java Util Logging, Log4j2, and Logback. 
