@@ -34,8 +34,11 @@ This gives you information regarding the date and time of the log, Log level sho
 
 configure the ROOT level log in **Logback.xml** file as 
 
-![image](https://user-images.githubusercontent.com/43011442/120166865-b06ffe80-c21a-11eb-9c51-7a93e566db03.png)
-
+    <?xml version = "1.0" encoding = "UTF-8"?>
+    <configuration>
+       <root level = "INFO">
+       </root>
+    </configuration>
 
 configure the console appender in **Logback.xml** file as
 
@@ -46,3 +49,4 @@ configure the console appender in **Logback.xml** file as
           <appender-ref ref = "STDOUT"/> 
        </root>
     </configuration>
+
