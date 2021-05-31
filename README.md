@@ -11,3 +11,9 @@
 ![image](https://user-images.githubusercontent.com/43011442/120165744-80742b80-c219-11eb-8802-4bdd33f15245.png)
 
 This gives you information regarding the date and time of the log, Log level shows INFO, ERROR or WARN, Process ID, The --- which is a separator, Thread name is enclosed within the square brackets [], Logger Name that shows the Source class name, The Log message. 
+
+## Console Log
+
+- The default log messages will print to the console window. 
+- By default, “INFO”, “ERROR” and “WARN” log messages will print in the log file.
+- add the debug mode to your application.properties file as **debug = true**
