@@ -25,3 +25,17 @@ This gives you information regarding the date and time of the log, Log level sho
 - specify the log file path using the property as **logging.path = /var/tmp/**
 - specify the own log file name using the property as **logging.file = /var/tmp/mylog.log**
 **Note** − Logback does not support **“FATAL”** level log. It is mapped to the **“ERROR”** level log.
+
+## Configuring LogBack
+
+- Logback supports XML based configuration to handle Spring Boot Log configurations. 
+- Logging configuration details are configured in **logback.xml** file. 
+- The **logback.xml** file should be placed under the classpath.
+
+configure the ROOT level log in **Logback.xml** file as 
+
+<?xml version = "1.0" encoding = "UTF-8"?>
+<configuration>
+   <root level = "INFO">
+   </root>
+</configuration>
